@@ -1,6 +1,6 @@
 {
   "name": "v0-earned-values",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://codecues.github.io/v0-earned-values",
   "scripts": {
@@ -15,7 +15,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.0.0",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "typescript": "^5.0.0"
   }
 }
